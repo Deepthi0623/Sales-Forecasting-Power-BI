@@ -15,15 +15,5 @@ Power BI Desktop
 DAX
 ETS Exponential Smoothing
 
-## Dashboard Preview
-
-## Sales Forecasting Dashboard
-
-![Sales Forecasting Dahboard]
-(Sales-Forecasting-Dashboard.png)
-
-## Forecast Analysis Dashboard
-
-![Forecast Analysis Dashboard]
-(Forecast-Analysis-Dashboard.png)
-
+## Project Outcome
+Developed an interactive Power BI dashboard to analyze historical sales data, identify trends, and generate future sales forecasts for business decision-maling.
